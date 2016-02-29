@@ -1,0 +1,18 @@
+#Summary
+This application is designed to show a sortable, filterable, searchable table on a set of Diamonds.
+
+##Table
+On this page you will find a table with basic information about each Diamond including:
+
+Carat, Cut, Color, Clarity, Depth, Table, Price, X,Y,Z
+
+
+Modifications to this page can be made with the following:
+* *Records Displayed* which can be modified using the dropdown in the top left corner
+* *Sorting* which can be modified A-Z by clicking the desired header once (click twice to sort Z-A)
+* *Filtering* which can be modified in the corresponding filter box located below the table rows.
+* *Searching* which can be done in the top right corner. 
+
+###Plots
+On this page you will find a chart. The Bargraph is created to show the total count of diamonds in each cut class.
+
